@@ -1,4 +1,4 @@
-# Football Redirect 
+# Football Redirect Version 1.0
 <html>
 <body>
 <ul>
